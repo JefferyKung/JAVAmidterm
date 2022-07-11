@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\onedrive\文件\桌面\JAVA Mid-term\.metadata\.plugins\org.eclipse.jdt.core
+2269863830.index
+1865797976.index
+1067094681.index

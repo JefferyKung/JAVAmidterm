@@ -1,0 +1,23 @@
+
+public class test {
+    private static String greet;
+
+    public static void setGreet(String msg){
+        greet = msg;
+    }
+
+    public static void printGreet(){
+        System.out.println(greet);
+    }
+	
+	
+}
+
+
+class C{
+
+    public static void main(String[] args) {
+       D.setGreet("Hello");
+       D.printGreet();
+    }
+}
